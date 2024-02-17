@@ -61,6 +61,14 @@ removeFailedStudent();
 // ***************** concatenateArray() *********************
 function concatenateArray() {
   //Write your code here, just console.log
-  console.log(concatenateArray());
+
+  let arr2 = [
+  { id: 5, name: "bigg", age: "33", marks: 30 },
+  { id: 6, name: "boss", age: "43", marks: 60 },
+  { id: 7, name: "season", age: "53", marks: 90 },
+  ];
+  
+  console.log(arr.concat(arr2));
 }
+concatenateArray();
 // **************************************************************
