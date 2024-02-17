@@ -8,20 +8,25 @@ let arr = [
 
 function PrintStudentswithMap() {
   //Write your code here , just console.log
+  console.log(PrintStudentswithMap());
 }
 
 function PrintStudentsbyForEach() {
   //Write your code here , just console.log
+  console.log(PrintStudentbyForEach());
 }
 
 function addData() {
   //Write your code here, just console.log
+  console.log(addData());
 }
 
 function removeFailedStudent() {
   //Write your code here, just console.log
+  console.log(removeFailedStudent());
 }
 
 function concatenateArray() {
   //Write your code here, just console.log
+  console.log(concatenateArray());
 }
