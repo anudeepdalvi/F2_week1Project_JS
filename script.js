@@ -32,9 +32,11 @@ PrintStudentsbyForEach();
 
 function addData() {
   //Write your code here, just console.log
-  console.log(addData());
+  
+  arr.push({id:4,name:"susan",age:"20",marks:45});
+  console.log(arr);
 }
-
+addData();
 
 function removeFailedStudent() {
   //Write your code here, just console.log
