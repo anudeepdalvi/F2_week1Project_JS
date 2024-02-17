@@ -47,8 +47,14 @@ addData();
 // ***************** removeFailedStudent() *********************
 function removeFailedStudent() {
   //Write your code here, just console.log
-  console.log(removeFailedStudent());
+
+  arr.filter(student => {
+    if(student.marks > 50) {
+      console.log(student);
+    }
+  });
 }
+removeFailedStudent();
 // **************************************************************
 
 
