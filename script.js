@@ -20,6 +20,7 @@ PrintStudentswithMap();
 
 function PrintStudentsbyForEach() {
   //Write your code here , just console.log
+  
   arr.forEach(student => {
     if(student.marks > 50) {
       console.log(student);
