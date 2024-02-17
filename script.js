@@ -30,8 +30,10 @@ function PrintStudentsbyForEach() {
   });
 } 
 PrintStudentsbyForEach();
+// **************************************************************
 
 
+// ***************** addData() *********************
 function addData() {
   //Write your code here, just console.log
   
@@ -39,15 +41,20 @@ function addData() {
   console.log(arr);
 }
 addData();
+// **************************************************************
 
+
+// ***************** removeFailedStudent() *********************
 function removeFailedStudent() {
   //Write your code here, just console.log
   console.log(removeFailedStudent());
 }
+// **************************************************************
 
 
+// ***************** concatenateArray() *********************
 function concatenateArray() {
   //Write your code here, just console.log
   console.log(concatenateArray());
 }
-
+// **************************************************************
