@@ -5,7 +5,7 @@ let arr = [
   { id: 2, name: "jack", age: "20", marks: 85 },
   { id: 3, name: "karen", age: "19", marks: 35 },
 ];
-
+// ***************** PrintStudentswithMap() *********************
 function PrintStudentswithMap() {
   //Write your code here , just console.log
   
@@ -16,8 +16,10 @@ function PrintStudentswithMap() {
   });
 } 
 PrintStudentswithMap();
+// **************************************************************
 
 
+// ***************** PrintStudentsbyForEach() *********************
 function PrintStudentsbyForEach() {
   //Write your code here , just console.log
   
